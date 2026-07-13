@@ -1,4 +1,4 @@
----
+substrate --dev---
 title: ApiPromise Examples
 slug: /api/examples/promise
 ---
